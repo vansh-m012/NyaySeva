@@ -1,12 +1,12 @@
-# NYAYSEVA Server 🚀
+# NYAYSEVA Server 
 
+## Overview
 This is the **backend server** for the NYAYSEVA project, built with **Node.js, Express, and MongoDB**.
 
 ## 🛠 Installation
-
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/yourusername/nyayseva-server.git
+git clone https://github.com/yourusername/NyaySeva-Server.git
 cd nyayseva-server
 ```
 
