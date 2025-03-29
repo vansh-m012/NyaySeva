@@ -90,7 +90,7 @@ const Chat = () => {
                         <div className="flex items-center">
                             <img className="rounded-full items-start flex-shrink-0 mr-3" src="https://res.cloudinary.com/dc6deairt/image/upload/v1638102932/user-32-05_bktgmb.jpg" width="32" height="32" alt="Scott Micheal" />
                             <div>
-                                <h4 className="text-sm font-semibold text-gray-900">Jagpreet</h4>
+                                <h4 className="text-sm font-semibold text-gray-900">Vansh</h4>
                                 <div className="text-[13px]">No way 🤙! · 11 Mar</div>
                             </div>
                         </div>

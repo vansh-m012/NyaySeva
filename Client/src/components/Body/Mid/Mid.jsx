@@ -28,7 +28,7 @@ const Mid = () => {
       email: "example@gmail.com",
     },
     {
-      name: "Jagpreet singh",
+      name: "Vansh Mishra",
       status: "Available",
       role: "Writer",
       email: "example@gmail.com",
